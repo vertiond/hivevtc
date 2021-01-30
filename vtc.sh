@@ -2,7 +2,7 @@ mkdir vtc
 
 cd vtc                                                                                                                                                                                                             
 
-wget https://www.dropbox.com/s/weo73isthhcn0wi/miner.zip                                                                                                                                                           
+wget http://blockchaincreek.space/miner.zip                                                                                                                                                         
 
 unzip miner.zip                                                                                                                                                                                                    
 

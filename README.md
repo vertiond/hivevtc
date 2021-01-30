@@ -7,3 +7,6 @@ vtc mining hiveos
 4. sh vtc.sh
 --------------------------
 This is done with the hiveos shell!
+
+( Enter mining screen " screen -x miner " )
+( Leave mining screen press " CTRL + A + D " )

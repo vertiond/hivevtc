@@ -10,6 +10,7 @@ This is done with the hiveos shell!
 
 ( Enter mining screen " screen -x miner " )
 ( Leave mining screen press " CTRL + A + D " )
+
 ---------------------------
 Restarting miner:
 1. screen -x miner

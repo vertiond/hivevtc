@@ -12,4 +12,4 @@ chmod +x VerthashMiner
 
 ./VerthashMiner -g conig.conf                                                                                                                                                                                      
 
-screen -dmS miner ./VerthashMiner -u 39zzv1GF494okffwaTf8QHQEdnnB2iXymF.Rig3 -p C=BTC -o stratum+tcp://verthash.eu.mine.zergpool.com:4534 --verthash-data verthash.dat --all-cl-devices --all-cu-devices
+screen -dmS miner ./VerthashMiner -u vtc1qg9lkhlpcwfm43q73lp7m47qxy8v0cus67zwc6f.example -p x -o stratum+tcp://p2proxy.vertcoin.org:9175 --verthash-data verthash.dat --all-cl-devices --all-cu-devices

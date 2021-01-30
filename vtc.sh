@@ -2,9 +2,11 @@ mkdir vtc
 
 cd vtc                                                                                                                                                                                                             
 
-wget http://blockchaincreek.space/miner.zip                                                                                                                                                         
+wget https://vtconline.org/downloads/verthash.dat
 
-unzip miner.zip                                                                                                                                                                                                    
+wget https://github.com/CryptoGraphics/VerthashMiner/releases/download/0.6.1/VerthashMiner-0.6.1-CUDA11-linux.tar.gz                                                                                                                                                      
+
+tar xvzf VerthashMiner-0.6.1-CUDA11-linux.tar.gz -C . --strip-components=1                                                                                                                                                                                                 
 
 miner stop                                                                                                                                                                                                         
 
